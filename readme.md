@@ -22,16 +22,11 @@ python3 first_payment_and_interest.py
 ---
 
 ## Features
-functions:
-to invoice,
-to bill,
-to make payments,
-to add interest rates,
 
-missing:
-handle errors
-dates
-serial numbers
+invoice,
+bill,
+make payments,
+add interest rates,
 
 ---
 
