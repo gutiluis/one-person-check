@@ -1,12 +1,17 @@
 >[!WARNING]
 >CURRENTLY UNDER DEVELOPMENT
 
-# Personal Account in Python
+# Personal Account App in Python
 
 ---
 
 ## How it works
 
+```
+git clone https://github.com/gutiluis/one-person-check.git
+cd one-person-check
+python3
+```
 
 ---
 
