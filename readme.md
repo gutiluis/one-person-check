@@ -10,7 +10,7 @@
 ```
 git clone https://github.com/gutiluis/one-person-check.git
 cd one-person-check
-python3
+python3 first_payment_and_interest.py
 ```
 
 ---
