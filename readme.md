@@ -1,7 +1,7 @@
 >[!WARNING]
 >CURRENTLY UNDER DEVELOPMENT
 
-# Personal Account App in Python
+# Account Tracker in Python
 
 ---
 
